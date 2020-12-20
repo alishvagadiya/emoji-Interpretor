@@ -1,0 +1,33 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+input {
+  width: 80%;
+  padding: 1rem;
+  border-radius: 0.2rem;
+  border: 0.1rem solid #0142da;
+  margin-bottom: 20px;
+}
+
+.container {
+  border: 0.1rem solid black;
+  border-radius: 0.4rem;
+  padding: 2rem;
+  width: 60%;
+  margin: auto;
+  font-weight: bolder;
+}
+
+.margingTop {
+  margin-top: 20px;
+}
+a {
+  list-style: none;
+  display: inline;
+  margin: 0.8rem;
+  font-size: 1.8rem;
+  cursor: pointer;
+  text-decoration: none;
+}
